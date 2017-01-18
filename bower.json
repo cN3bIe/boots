@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Ershov Alexey <0cn3bie0@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/cN3bIe/bootstrap",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1"
+  }
+}
